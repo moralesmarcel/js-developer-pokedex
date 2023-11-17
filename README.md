@@ -7,3 +7,9 @@
 - [X] Rodapé no App com os direitos autorais;
 - [ ] Customização do Alert;
 - [ ] Carousel para transição dos Card ao clicar no "carregar mais...".
+
+![GitHub repo size](https://img.shields.io/github/repo-size/moralesmarcel/js-developer-pokedex)
+![GitHub language count](https://img.shields.io/github/languages/count/moralesmarcel/js-developer-pokedex)
+![GitHub top language](https://img.shields.io/github/languages/top/moralesmarcel/js-developer-pokedex)
+![GitHub License](https://img.shields.io/github/license/moralesmarcel/js-developer-pokedex)
+
